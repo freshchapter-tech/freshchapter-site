@@ -1,0 +1,4 @@
+baseURL = "https://freshchapter-tech.github.io/freshchapter-site/"
+languageCode = "en-us"
+title = "Fresh Chapter"
+theme = "ananke"
